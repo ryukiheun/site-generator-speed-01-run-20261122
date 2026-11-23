@@ -1,0 +1,1 @@
+Build a fast static site generator (make.fun site-generator-speed-01-run-20261122): solve.js + main.ts, byte-identical output to makefun-site 1.0.0, ranked by CPU time. Node 22, JS/TS only, no installs/WASM/native, repo <= 4 MiB, no cross-case cache, deterministic.
